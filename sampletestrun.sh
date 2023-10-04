@@ -1,4 +1,3 @@
 #!/bin/sh
-
-echo " Hello World "
+printf " Hello World " >> testrun.txt
 
